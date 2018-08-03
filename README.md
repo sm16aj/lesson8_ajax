@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(08/03/2018)
 
 ### Student Name:  
-(First and Last Name)
+Shira Menaged
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This lesson uses an API,Ajax< and JSON-formatted data to build an application. Working movie database that prints results when keyword search is used for elements such as release date, title, actors, and such.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://sm16aj.github.io/lesson8_ajax/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. API application programming interface
+2. Ajax asynchronous javascript and XML
+3. JSON Javascript object notation
